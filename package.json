@@ -1,0 +1,24 @@
+{
+  "name": "node-routing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dushyant099/node-routing.git"
+  },
+  "author": "Dushyant Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dushyant099/node-routing/issues"
+  },
+  "homepage": "https://github.com/Dushyant099/node-routing#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
+  }
+}
